@@ -1,4 +1,5 @@
-﻿using System;
+//This is the startup project. The project itself is still in the development stages.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
